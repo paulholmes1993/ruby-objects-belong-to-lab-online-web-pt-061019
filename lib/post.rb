@@ -11,4 +11,3 @@ def author_name
     @athour.name
   end
 end
-end
